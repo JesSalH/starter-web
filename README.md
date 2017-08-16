@@ -1,4 +1,6 @@
-# Start of web project bla bla
+# Starter web project bla bla
+
+This is a simple web project to practice with Git and Git Hub
 
 ## Introduction
 
