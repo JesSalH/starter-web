@@ -1,7 +1,7 @@
-# Starter Web Repo
+# Start of web project bla bla
 
-This repository is for showing how Git and GitHub work
+## Introduction
 
-## Purpose
+##Purpose
 
-Sample website with plenty of files for demoshola
+##How to continue
